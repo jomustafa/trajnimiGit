@@ -1,3 +1,4 @@
 Rreshti i pare 
 Rreshti i dyte
 Ky kaq qene test.txt edhe cmd ja ta shfaq si deleted + file i ri me emrin e ri 
+modifikim
